@@ -2,19 +2,21 @@
 This Plugin works with the adonis admin system and alows you to refuel buses (gen X or Huxley).
 
 # Command Example
--Fuel
-
-:Fuel Plr Level
-
-Ply = targeted player
-
-Level = Fuel level for the bus
-
--Bus Off - 2 Scripts 1 for gen X, one for Huxley
-
-:BusOff Plr Level
-
-Ply = trageted player
+| Fuel |
+|Command|Arg1|Arg2|
+|------------|----|----|
+|:Fuel |Plr | Level |
+|------|----|-------|
+|Ply = targeted player|
+|------|----|-------|
+|Level = Fuel level for the bus|
+|--------------------|
+|BusOff|
+|Command|Arg|
+|-----------|
+|:BusOff | Plr |
+|--------|-----|
+|Ply = trageted player|
 
 # Setup
 1) Find the Adonis Loader
