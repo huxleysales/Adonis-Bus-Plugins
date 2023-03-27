@@ -21,6 +21,6 @@ This Plugin works with the adonis admin system and alows you to refuel buses (ge
 3) go to the Plugins folder
 4) Create a new ModuleScript
 5) Name the ModuleScript you just created "Server-name of script"
-6) Past the code given into the script
+6) Paste the code given into the script
 7) If you want to change the level access to the command go to - AdminLevel = "Admins"; - and change the "Admins" to X rank
 8) Enjoy I guess
