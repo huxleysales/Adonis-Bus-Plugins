@@ -4,13 +4,13 @@ This Plugin works with the adonis admin system and alows you to refuel buses (ge
 # Command Example
 | Fuel |
 |Command|Arg1|Arg2|
-| | | |
+|-|
 |:Fuel |Plr | Level |
-|Ply = targeted player| |
+|Ply = targeted player|-|
 |Level = Fuel level for the bus|
 |BusOff|
-|Command|Arg| |
-| |
+|Command|Arg|-|
+|-|
 |:BusOff | Plr |
 |Ply = trageted player|
 
