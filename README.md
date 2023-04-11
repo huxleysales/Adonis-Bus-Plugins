@@ -6,14 +6,14 @@ This Plugin works with the adonis admin system and alows you to refuel buses (ge
 |---------|------------|--|
 | Command | Arg1| Arg2 |
 | :Fuel | Plr | Level |
-| Ply = targeted player |-|-|
+| Plr = targeted player |-|-|
 | Level = Fuel level for the bus |-|-|
 
 | Command Type | Turn Bus Off |
 |---------|-----|
 | Command | Arg |
 | :BusOff | Plr |
-| Ply = trageted player |-|
+| Plr = trageted player |-|
 
 # Setup
 1) Find the Adonis Loader
